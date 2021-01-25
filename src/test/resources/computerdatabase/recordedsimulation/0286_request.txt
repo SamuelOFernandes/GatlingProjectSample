@@ -1,0 +1,1 @@
+{"window_width":733,"window_height":570,"url":"https://www.submarino.com.br/categoria/informatica/m/dell","r_value":0.23628571476152416,"is_vpv":false,"session_only":true,"rec_value":0.275,"disable_traffic_log_capture":true,"user_id":"9966ef02-32b8-5b19-9d4b-99fd9db43bbb"}
